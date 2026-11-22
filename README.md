@@ -1,3 +1,0 @@
-# Digital Museum
-
-Final build.
